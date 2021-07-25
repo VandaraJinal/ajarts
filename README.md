@@ -5,9 +5,8 @@
 </p>
 <h2 align="center">AJ Art Space</h2>
 <p align="center">Ankit Vandara and Jinal Vandara</p>
-<br /
 
-## Get in touch
+## Contact Us
 - Instagram: [AJ Art Space](https://www.instagram.com/a_j_art_space/?hl=en)
 - Facebook: [AJ Art Space Page](https://www.facebook.com/ANKITvandraJINALvandara/)
 - Mail: ajartspace@gmail.com
